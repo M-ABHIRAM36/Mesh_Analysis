@@ -68,3 +68,15 @@ Mesh 2 --> i2 = 1.67 A (A.CW)
 📂 Project Structure
 mesh_analysis.py    # Main program file
 README.md           # Documentation
+
+
+---
+
+✅ This is **GitHub-ready** with:
+- Features section
+- Installation instructions
+- Usage guide with example input/output
+- Future roadmap
+---
+
+
