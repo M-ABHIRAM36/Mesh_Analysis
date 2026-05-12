@@ -16,7 +16,7 @@ Originally developed during **B.Tech 1st Year** as a foundational circuits proje
 6. [How to Run](#how-to-run)
 7. [Input Instructions](#input-instructions)
 8. [Examples](#examples)
-   - [Example 1 -- Single Mesh](#example-1--single-mesh-1-mesh)
+   - [Example 1 -- Single Mesh](#Example-1----Single-Mesh (1 Mesh))
    - [Example 2 -- Two Meshes with Shared Resistor](#example-2--two-meshes-with-shared-resistor)
    - [Example 3 -- Three Meshes](#example-3--three-meshes-with-two-shared-resistors)
    - [Example 4 -- Two Meshes with Multiple Voltage Sources](#example-4--two-meshes-with-multiple-voltage-sources)
